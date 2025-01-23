@@ -1,0 +1,15 @@
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/bin/Debug/net8.0/desafio4
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/bin/Debug/net8.0/desafio4.deps.json
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/bin/Debug/net8.0/desafio4.runtimeconfig.json
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/bin/Debug/net8.0/desafio4.dll
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/bin/Debug/net8.0/desafio4.pdb
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.AssemblyInfoInputs.cache
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.AssemblyInfo.cs
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.csproj.CoreCompileInputs.cache
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.sourcelink.json
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.dll
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/refint/desafio4.dll
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.pdb
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/desafio4.genruntimeconfig.cache
+/home/mellog/Documentos/ProjetosPessoal/Programming-exercises/desafio4/obj/Debug/net8.0/ref/desafio4.dll
