@@ -14,7 +14,7 @@ Arquivo: desafio1/index.cs
 
 Função que recebe um número e verifica se ele pertence à sequência de Fibonacci.
 
-Arquivo: desafio2/dibonacci.js
+Arquivo: desafio2/fibonacci.js
 
 Faturamento Diário de uma Distribuidora (Node.js/TypeScript)
 
